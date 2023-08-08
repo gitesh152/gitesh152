@@ -15,7 +15,7 @@ I am **Gitesh Kumar** working as **Software Engineer @ DBA LOUNGE**. I am a **ME
 - 🤔 I’m looking for help finding new opportunities in new environment.
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Gmail](https://mail.google.com/mail/u/0/?fs=1&to=gitesh152@gmail.com&su=SUBJECT&body=BODY&tf=cm), [LinkedIN](https://www.linkedin.com/in/gitesh-kumar-an5h)**
+  **[Gmail](https://mail.google.com/mail/u/0/?fs=1&to=gitesh152@gmail.com&su=SUBJECT&body=BODY&tf=cm), [LinkedIn](https://www.linkedin.com/in/gitesh-kumar-an5h)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitesh152&layout=compact&theme=dark&hide_border=true)
 <!--
